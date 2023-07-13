@@ -1,0 +1,16 @@
+pandas = "1.3.5"
+pandas==1.5.3
+scvi-tools==1.0.2
+llvmlite==0.39.1
+scanpy==1.9.3
+torch==1.13.0
+torchtext==0.14.0
+transformers==4.30.2
+numba==0.56.4
+scikit-misc==0.3.0
+umap-learn==0.5.3
+leidenalg==0.10.0
+datasets==2.13.1
+typing-extensions==4.7.1
+scib==1.1.3
+flash-attn==1.0.5
